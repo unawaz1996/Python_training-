@@ -2,6 +2,6 @@
 
 ### To do list 
 
-- [] Python basics incl. data structures, syntax and best practices  
-- [] PyMongo
-- [] RDKit and pythonß
+- [ ] Python basics incl. data structures, syntax and best practices  
+- [ ] PyMongo
+- [ ] RDKit and pythonß

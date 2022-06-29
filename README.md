@@ -4,4 +4,5 @@
 
 - [ ] Python basics incl. data structures, syntax and best practices  
 - [ ] PyMongo
-- [ ] RDKit and pythonß
+- [ ] RDKit and python
+- [ ] Visualisations using seabornß

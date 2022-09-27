@@ -5,4 +5,4 @@
 - [ ] Python basics incl. data structures, syntax and best practices  
 - [ ] PyMongo
 - [ ] RDKit and python
-- [ ] Visualisations using seabornß
+- [ ] Visualisations using seaborn
